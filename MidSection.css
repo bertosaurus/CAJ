@@ -1,0 +1,67 @@
+
+.col-lg-8.mainSection{
+
+    outline: solid thin black;
+
+}
+
+.col-lg-4{
+
+    padding: 17px;
+
+}
+
+/*block1*/
+
+.contentBlock1{
+
+    background-image: url("img/schafer.jpg");
+    height: 399.238px;
+
+}
+
+.contentBlock1:hover{
+
+    height: 433.328px;
+    width: 433.328px;
+
+}
+
+.transparantLayer1{
+
+    background: rgba(189,0,0,0.50);
+    height: 399.238px;
+
+}
+
+/*Block2*/
+
+.contentBlock2{
+
+    background-image: url("img/schafer.jpg");
+    height: 399.238px;
+
+}
+
+.transparantLayer2{
+
+    background: rgba(0,0,82,0.50);
+    height: 399.238px;
+
+}
+
+/*Block3*/
+
+.contentBlock3{
+
+    background-image: url("img/schafer.jpg");
+    height: 399.238px;
+
+}
+
+.transparantLayer3{
+
+    background: rgba(65,154,49,0.50);
+    height: 399.238px;
+
+}

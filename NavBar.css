@@ -1,0 +1,24 @@
+
+.navbar {
+
+     border: none; 
+}
+
+.container-fluid{
+    
+    background-color: #BD0000;
+    
+}
+
+.navbar-default .navbar-brand {
+    
+    color: whitesmoke;
+    font-size: 40px;
+    
+}
+
+.navbar-default .navbar-brand:hover{
+    
+    color: white;
+    
+}
