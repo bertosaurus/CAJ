@@ -2,14 +2,14 @@ Saker att lägga till på sidan
 
 Nav-bar
 
-1. Gör inget på den än.
+* Fixa så att navbaren inte hoppar till när man skrollar upp.
 
 MidSection
 
-1. Zoom på blocken när hover över.
+* fixa färgerna ordentligt.
 
-2. Två rader till med block.
+* fixa riktiga bilder.
 
 Footer
 
-1. Vänta med att göra.
+* Vänta med att göra.

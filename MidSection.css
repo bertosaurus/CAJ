@@ -1,67 +1,214 @@
 
 .col-lg-8.mainSection{
 
-    outline: solid thin black;
+    /*outline: solid thin black;*/
 
 }
 
+.row {
+    margin-right: 0px; 
+    margin-left: 0px; 
+}
+
+.row.contentBlockRow{
+    
+    /*margin-top: 10px;*/
+    
+}
+
 .col-lg-4{
-
     padding: 17px;
+    /*outline: solid thin black;*/
+}
 
+.tlh:hover{   
+    z-index: 2;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1.05);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1.05);   
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1.05);
+    transition: all 200ms ease-in;
+    transform: scale(1.05);
 }
 
 /*block1*/
 
 .contentBlock1{
-
     background-image: url("img/schafer.jpg");
     height: 399.238px;
-
-}
-
-.contentBlock1:hover{
-
-    height: 433.328px;
-    width: 433.328px;
-
 }
 
 .transparantLayer1{
-
     background: rgba(189,0,0,0.50);
     height: 399.238px;
-
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1); 
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1); 
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);   
 }
 
 /*Block2*/
 
 .contentBlock2{
-
     background-image: url("img/schafer.jpg");
     height: 399.238px;
-
 }
 
 .transparantLayer2{
-
-    background: rgba(0,0,82,0.50);
+    background: rgba(2,85,237,0.50);
     height: 399.238px;
-
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1); 
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1); 
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);
 }
 
 /*Block3*/
 
 .contentBlock3{
-
     background-image: url("img/schafer.jpg");
     height: 399.238px;
-
 }
 
 .transparantLayer3{
+    background: rgba(225,225,56,0.50);
+    height: 399.238px; 
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1); 
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1); 
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);
+}
 
-    background: rgba(65,154,49,0.50);
+/*Block4*/
+
+.contentBlock4{
+    background-image: url("img/schafer.jpg");
     height: 399.238px;
+}
 
+.transparantLayer4{
+    background: rgba(65,154,49,0.50);
+    height: 399.238px; 
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1); 
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1); 
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);
+}
+
+/*Block5*/
+
+.contentBlock5{
+    background-image: url("img/schafer.jpg");
+    height: 399.238px;
+}
+
+.transparantLayer5{
+    background: rgba(255,149,16,0.50);
+    height: 399.238px; 
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1); 
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1); 
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);
+}
+
+/*Block6*/
+
+.contentBlock6{
+    background-image: url("img/schafer.jpg");
+    height: 399.238px;
+}
+
+.transparantLayer6{
+    background: rgba(90,0,115,0.50);
+    height: 399.238px; 
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1); 
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1); 
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);
+}
+
+/*Block7*/
+
+.contentBlock7{
+    background-image: url("img/schafer.jpg");
+    height: 399.238px;
+}
+
+.transparantLayer7{
+    background: rgba(255,82,255,0.50);
+    height: 399.238px; 
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1); 
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1); 
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);
+}
+
+/*Block8*/
+
+.contentBlock8{
+    background-image: url("img/schafer.jpg");
+    height: 399.238px;
+}
+
+.transparantLayer8{
+    background: rgba(130,255,90,0.50);
+    height: 399.238px; 
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1); 
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1); 
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);
+}
+
+/*Block9*/
+
+.contentBlock9{
+    background-image: url("img/schafer.jpg");
+    height: 399.238px;
+}
+
+.transparantLayer9{
+    background: rgba(86,255,255,0.50);
+    height: 399.238px; 
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1); 
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1); 
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);
 }
