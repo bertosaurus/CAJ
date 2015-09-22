@@ -1,24 +1,26 @@
 
 .col-lg-8.mainSection{
 
-    /*outline: solid thin black;*/
 
 }
 
 .row {
+    
     margin-right: 0px; 
     margin-left: 0px; 
+    
 }
 
 .row.contentBlockRow{
     
-    /*margin-top: 10px;*/
+    margin-top: 65px;
     
 }
 
 .col-lg-4{
+    
     padding: 17px;
-    /*outline: solid thin black;*/
+    
 }
 
 .tlh:hover{   
@@ -51,6 +53,14 @@
     -moz-transform: scale(1);
     transition: all 200ms ease-in;
     transform: scale(1);   
+}
+
+.transparantLayer1 p{
+    
+    text-align: center;
+    padding-top: 40%;
+    font-size: 50px;
+    color: black;
 }
 
 /*Block2*/

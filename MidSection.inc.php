@@ -3,10 +3,11 @@
 
     <div class="col-lg-2"></div>
     <div class="col-lg-8 mainSection">
+        
         <div class="row contentBlockRow">
             <div class="col-lg-4">
                 <div class="contentBlock1">
-                    <div class="transparantLayer1 tlh"></div>
+                    <div class="transparantLayer1 tlh"><p>saker</p></div>
                 </div>
             </div>
 
@@ -21,8 +22,7 @@
                     <div class="transparantLayer3 tlh"></div>
                 </div>                
             </div>           
-        </div>       
-        <div class="row contentBlockRow">
+        
             <div class="col-lg-4">
                 <div class="contentBlock4">
                     <div class="transparantLayer4 tlh"></div>
@@ -40,8 +40,7 @@
                     <div class="transparantLayer6 tlh"></div>
                 </div>                
             </div>           
-        </div>
-             <div class="row contentBlockRow">
+     
             <div class="col-lg-4">
                 <div class="contentBlock7">
                     <div class="transparantLayer7 tlh"></div>
@@ -60,6 +59,7 @@
                 </div>                
             </div>           
         </div>
+        
     </div>
     <div class="col-lg-2"></div>
 </div>

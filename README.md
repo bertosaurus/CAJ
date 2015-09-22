@@ -1,8 +1,8 @@
-Saker att lägga till på sidan
+Saker att lägga till/göra på sidan
 
 Nav-bar
 
-* Fixa så att navbaren inte hoppar till när man skrollar upp.
+* 
 
 MidSection
 
